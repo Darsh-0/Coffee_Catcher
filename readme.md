@@ -1,5 +1,5 @@
 # Coffee Catcher
 
-I made this for Year 11 Computer Science assessment
+I made this game for fun using pygame
 
 Made by Darsh Gandhi
